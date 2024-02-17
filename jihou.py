@@ -1,5 +1,5 @@
 # jihou v1.1
-# Copyright 2023-2024 toaus()
+# Copyright 2023-2024 toaus
 import datetime
 import time
 import threading
